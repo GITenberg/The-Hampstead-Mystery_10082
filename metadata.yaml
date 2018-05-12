@@ -1,13 +1,16 @@
 _repo: The-Hampstead-Mystery_10082
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Watson, John R. (John Reay)
-    birthdate: &id001 1872
+    birthdate: 1872
     gutenberg_agent_id: '3300'
     url: http://www.gutenberg.org/2009/agents/3300
   - agent_name: Rees, Arthur J. (Arthur John)
-    birthdate: *id001
+    birthdate: 1872
     deathdate: 1942
     gutenberg_agent_id: '4400'
     url: http://www.gutenberg.org/2009/agents/4400
@@ -15,6 +18,8 @@ creator:
 description: The care with which the story is written, the complicated plot, and the
   clash of the different practices of man-hunters lift it out of the common run of
   mystery tales and make this an absorbing book.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10082#The-Hampstead-Mystery
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
